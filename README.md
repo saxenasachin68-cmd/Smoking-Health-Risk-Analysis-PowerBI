@@ -80,51 +80,51 @@ This dashboard aims to:
 
 ### Healthy Heart Analysis
 
-![Healthy Heart Dashboard](healthy_heart_dashboard.png)
+![Healthy Heart Dashboard](dashboards/healthy_heart_dashboard.png)
 
 ### Damaged Heart Analysis
 
-![Damaged Heart Dashboard](damaged_heart_dashboard.png)
+![Damaged Heart Dashboard](dashboards/damaged_heart_dashboard.png)
 
 ---
 
 ### Healthy Liver Analysis
 
-![Healthy Liver Dashboard](healthy_liver_dashboard.png)
+![Healthy Liver Dashboard](dashboards/healthy_liver_dashboard.png)
 
 ### Damaged Liver Analysis
 
-![Damaged Liver Dashboard](damaged_liver_dashboard.png)
+![Damaged Liver Dashboard](dashboards/damaged_liver_dashboard.png)
 
 ---
 
 ### Healthy Kidney Analysis
 
-![Healthy Kidney Dashboard](healthy_kidney_dashboard.png)
+![Healthy Kidney Dashboard](dashboards/healthy_kidney_dashboard.png)
 
 ### Damaged Kidney Analysis
 
-![Damaged Kidney Dashboard](damaged_kidney_dashboard.png)
+![Damaged Kidney Dashboard](dashboards/damaged_kidney_dashboard.png)
 
 ---
 
 ### Healthy Lungs Analysis
 
-![Healthy Lungs Dashboard](healthy_lungs_dashboard.png)
+![Healthy Lungs Dashboard](dashboards/healthy_lungs_dashboard.png)
 
 ### Damaged Lungs Analysis
 
-![Damaged Lungs Dashboard](damaged_lungs_dashboard.png)
+![Damaged Lungs Dashboard](dashboards/damaged_lungs_dashboard.png)
 
 ---
 
 ### Healthy Human Body Analysis
 
-![Healthy Human Body Dashboard](healthy_human_body_dashboard.png)
+![Healthy Human Body Dashboard](dashboards/healthy_human_body_dashboard.png)
 
 ### Damaged Human Body Analysis
 
-![Damaged Human Body Dashboard](damaged_human_body_dashboard.png)
+![Damaged Human Body Dashboard](dashboards/damaged_human_body_dashboard.png)
 
 ---
 
