@@ -120,7 +120,7 @@ This dashboard aims to:
 
 ### Healthy Human Body Analysis
 
-![Healthy Human Body Dashboard](dashboards/healthy_body.png)
+![Healthy Human Body Dashboard](dashboards/healthy_human_body_dashboard.png)
 
 ### Damaged Human Body Analysis
 
